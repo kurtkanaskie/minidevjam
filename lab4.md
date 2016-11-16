@@ -1,10 +1,10 @@
 # Lab 1 - Publishing API Specification to Portal
 
-In this lab, we'll publish our spec to the Portal. To begin, create a Portal from the *Publish* navigation menu.
+In this lab, we'll publish our spec to the Portal. To begin, create a Portal from the *Publish* navigation menu...
 
 ![Image](images/portal-create.png) 
 
-Expand the *+Spec* button and select the option *Import URL...*
+and choose a name.
 
 ![Image](images/portal-create-dialog.png) 
 

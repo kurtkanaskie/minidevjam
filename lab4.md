@@ -16,11 +16,11 @@ choose the product...
 
 ![Image](images/portal-api-orders.png) 
 
-and select the snapshot...
+and select the *snapshot source*...
 
 ![Image](images/portal-api-orders-product.png) 
 
-and your done. Now select the *Live Portal* to view the portal.
+and your done. Now select the *Live Portal* to view it.
 
 ![Image](images/portal-api-orders-published.png) 
 

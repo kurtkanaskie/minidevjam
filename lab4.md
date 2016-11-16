@@ -6,7 +6,7 @@ In this lab, we'll publish our spec to the Portal. To begin, create a Portal fro
 
 and choose a name.
 
-![Image](images/portal-create-dialog.png) 
+![Image](images/portal-create-dialog.png =250x250) 
 
 Then add an *API Product*...
 

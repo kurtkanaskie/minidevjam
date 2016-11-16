@@ -1,6 +1,6 @@
 # Lab 1 - Publishing API Specification to Portal
 
-In this lab, we'll publish our spec to the Portal. To begin, select the *Specs* option from the Apigee Management UI Dashboard:
+In this lab, we'll publish our spec to the Portal. To begin, create a Portal from the *Publish* navigation menu.
 
 ![Image](images/portal-create.png) 
 

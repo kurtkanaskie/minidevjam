@@ -20,19 +20,19 @@ and select the snapshot...
 
 ![Image](images/portal-api-orders-product.png) 
 
-and your done.
+and your done. Now select the *Live Portal* to view the portal.
 
 ![Image](images/portal-api-orders-published.png) 
 
-Next
+Select *APIs*...
 
 ![Image](images/portal-live.png) 
 
-Next
+and then "Orders" API.
 
 ![Image](images/portal-live-orders.png) 
 
-Next
+This is how the interactive docs look.
 
 ![Image](images/portal-live-orders-customer.png) 
 

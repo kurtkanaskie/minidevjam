@@ -45,4 +45,5 @@ Welcome to the Apigee mini hands on DevJam workshop.
 1. [Adding a new API Specification](lab1.md)
 2. [Traffic Management and Basic Security](lab2.md)
 3. [API Publishing and Consumption](lab3.md)
+4. [API Documentation to Portal](lab4.md)
 

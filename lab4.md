@@ -8,19 +8,19 @@ and choose a name.
 
 ![Image](images/portal-create-dialog.png) 
 
-Next
+Then add an *API Product*...
 
 ![Image](images/portal-api.png) 
 
-Next
+choose the product...
 
 ![Image](images/portal-api-orders.png) 
 
-Next
+and select the snapshot...
 
 ![Image](images/portal-api-orders-product.png) 
 
-Next
+and your done.
 
 ![Image](images/portal-api-orders-published.png) 
 
